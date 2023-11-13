@@ -1,4 +1,4 @@
-##ATTACK-PROOF WEBSITE WITH AUTOMATED BACKUP OF OS AND LOGS
+## ATTACK-PROOF WEBSITE WITH AUTOMATED BACKUP OF OS AND LOGS
 
 The “Atack-Proof Website with Automated Backup of OS and Logs” project successfully implements several security measure and configura􀆟ons to enhance the website’s security and resilience. By isola􀆟ng components, automa􀆟ng backups, implemen􀆟ng autoscaling, managing log reten􀆟on, and taking regular OS disk snapshots, the project reduces the risk of atacks, improves system availability, and ensures data integrity.
 The project's isolated environment provides containment, limi􀆟ng the impact of poten􀆟al breaches. Automated backups through the synchroniza􀆟on of logs and webpages to the S3 bucket guarantee the ability to recover cri􀆟cal data in the event of atacks or system failures.
